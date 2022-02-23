@@ -1,4 +1,4 @@
-/*<applet code=prac2.java width=500 height=500>
+/*<applet code=p2.java width=500 height=500>
 </applet>
 */
 import java.applet.*;
